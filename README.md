@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋  <br>Nice meeting you, I'm **Vedant!**<br><br>🔭 I’m currently working at **OpenQQuantify** as a Software Developer Intern  <br>💬 Ask me about **ML, cloud, full-stack & frontend web, Flutter, and REST APIs**  <br><br>📫 How to reach me:  <br>- 💼 LinkedIn: [vedant-patel-connect](https://www.linkedin.com/in/vedant-patel-connect/)  <br>- 💻 GitHub: [@veddantt](https://github.com/veddantt)  <br>- 🌐 Portfolio: [veddantt.vercel.app](https://veddantt.vercel.app/)  <br><br>😄 Pronouns: **He/Him**  <br>⚡ Fun fact: I enjoy building end-to-end systems — from ML models to polished UIs ⚙️<br>
+Hi there 👋  <br>Nice meeting you, I'm **Vedant!**<br><br>🔭 I’m currently working at **OpenQQuantify** as a Software Developer Intern  <br>💬 Ask me about **ML, cloud, full-stack & frontend web, Flutter, and REST APIs**  <br><br>📫 How to reach me:  <br>- 💼 LinkedIn: [vedant-patel-connect](https://www.linkedin.com/in/vedant-patel-connect/)  <br>- 💻 GitHub: [@veddantt](https://github.com/veddantt)  <br>- 🌐 Portfolio: [https://vedantdev.vercel.app/](https://veddantt.vercel.app/)  <br><br>😄 Pronouns: **He/Him**  <br>⚡ Fun fact: I enjoy building end-to-end systems — from ML models to polished UIs ⚙️<br>
 
 
 ## 🌐 Socials:
